@@ -1,0 +1,6 @@
+PARA ENTRADA NA PASTA: cd ; 
+PARA ADICIONAR ARQUIVOR: git add . ;
+PARA VER O STATUS: git status;
+PARA ADICIONAR: git commit -m "-----";
+PARA ADICIONAR A NUVEM:git push origin main;
+

@@ -1,0 +1,6 @@
+Link para Download do JDK:
+https://www.azul.com/downloads/?package=jdk
+Link para Download do eclipse:
+https://www.eclipse.org/downloads/
+Link para Download do git:
+https://git-scm.com/downloads

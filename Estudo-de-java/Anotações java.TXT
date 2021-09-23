@@ -1,0 +1,43 @@
+operadores aritimetricos java:
++ adição
+- subtração
+* multiplicação
+/ divisão 
+% resto de divisão        
+
+*,/ e % se sobresai sobre + e - 
+Váriaveis: porção de memória ram, ultilizada para guardar dados durante sua execução.
+sintaxe:
+<tipo> <nome>=<valor inicial>;
+ 
+int.idade=25 (int= números inteiros)
+double.altura=1,68 (double= duas casa decimais)
+char.sexo= f; (char= qualquer caracter do computador )     
+varaveis possuem nome, tipo, valor, endereço 
+números inteiros = byte-128 a 127                                                1bit= 2 possibilidade, 8bits igual a dois ao quadrado 
+                   int -2 bilhões a 2 bilhões
+                   shor -32 mil a 32 mil
+                   long -5 quinquilhões a 5 quinquilhões 
+
+para concatenar vários elementos em uma mesma escrita.
+elemento 1 + elemento 2...
+System.out.println("resultado= "+ x + "metros");
+para ultilizar da simplificação 
+System.out.printf("resultado = %.2f metros%n",x);                (f= abreviação de formatar)
+maneirass de usar váriaveis 
+int idade = 35;
+string nome = "maria"; 
+double renda= 1000,0;
+System.out.printf("%s + tem%i anos ganha R$ %2.f reais%n", nome,idade, renda);                  
+%f= ponto flutuante
+%d= inteiro
+%s= texto
+%n= quebbra de linha 
+SIMBOLOS COMPARATIVOS:
+> maior que
+< menor que 
+>= maior ou igual que 
+<= menor ou igual que 
+== igual 
+!= diferente
+      

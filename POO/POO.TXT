@@ -1,0 +1,21 @@
+QUAL A DIFERENÇA DE PROGRAMAÇÃO ORIENTADA A OBJETOS PARA UMA PROGRAMAÇÃO ESTRUTURADA ?
+Porgramação estruturada o código de cima chama o de baixo, alta complexidade de códigos e o Poo é de fácil manutenção.
+Aprendizado tradicional da Orientação a Objetos:
+chamamos de objetos a representação de algo, como por exemplo um carro,
+onde temos atributos e ações tomadas que podem ser tomadas ou executadas por ele.
+EXEMPLO: PROPIEDADES DE UM CARRO EM UM PROGRAMA 
+         + ALTURA: NUMÉRICO
+         + LARGURA: NUMÉRICO
+         + COR: CORES
+         + COMBUSTÍVEL:COMBUSTÍVEIS
+         + CILINDRADAS: INT
+         + PASSAGEIROS: INT
+         + VELOCIDADEMAXIMA: NUMÉRICO
+         +LIGAR(): VOID
+         + DESLIGAR(): VOID 
+         + ANDAR(): VOID 
+Classes Utilitárias:
+clásses que se limitam a apenas uma ação, parametros de entrada simples e diretos, resolve por sim mesma, resultados de saídas direto.
+exemplo: válidação de CPF E CNPJ.
+HERANÇA?A herança é um mecanismo da Orientação a Objeto que permite criar 
+novas classes a partir de classes já existentes, aproveitando-se das características existentes na classe a ser estendida.

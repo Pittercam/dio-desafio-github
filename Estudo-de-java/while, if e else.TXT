@@ -1,0 +1,79 @@
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int B;
+		System.out.println("Qual valor em sau conta ?");
+		B = input.nextInt();
+		if (B<0){
+		  System.out.println("negativo");
+		}
+
+		else {
+            System.out.println("positivo");
+		}
+		
+		}
+	
+}
+import java.util.Scanner;
+public class Main {
+ 
+	
+	public static void main(String[] args)
+        Scanner input = new Scanner(System.in); 
+        Int x = input.NextInt();
+        String  dia;
+
+
+        Switch(x){
+        case 1:
+        dia = "domingo";
+        break;
+
+
+        case 2:
+        dia = "segunda";
+        break;
+        ...
+        defalt= "valor inválido"
+       System.out.print("dia da semana + dia);
+       input.close();
+}
+}
+
+
+
+EXPRESSÃO CONDICIONAL TENÁRIA:
+(CONDIÇÃO)VALOR_SE_VERDADEIRO:VALOR_SE_FALSO EX:
+(15 + 30 = 50)RENATO:JOÃO======> JOÃO 
+      
+
+ESTRUTURAS DE REPETIÇÃO: WHILE. 
+While(condição){
+comando1 
+comando2
+}
+
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("DIGITE A SENHA:");
+                int senha = sc.nextInt(); 
+                while(senha != 2560){
+           System.out.print("ACESSO NEGADO");
+            senha = sc.nextInt();
+		
+		}
+                System.out.println("ACESSO PERMITIDO");
+                sc.close();
+                
+	}
+	
+
+}
